@@ -35,7 +35,7 @@
         android:layout_height="45dp"
         android:layout_gravity="center"
         android:ems="10"
-        android:inputType="textPersonName"
+        android:inputType="textPassword"
         android:hint="Password"
         tools:layout_editor_absoluteX="29dp"
         tools:layout_editor_absoluteY="155dp" />

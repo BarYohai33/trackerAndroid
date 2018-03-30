@@ -24,7 +24,7 @@
         android:inputType="textPersonName"
         android:layout_gravity="center"
         android:layout_marginTop="20dp"
-        android:text="E-mail"
+        android:hint="E-mail"
         tools:layout_editor_absoluteX="30dp"
         tools:layout_editor_absoluteY="90dp" />
 
@@ -35,8 +35,8 @@
         android:layout_height="45dp"
         android:layout_gravity="center"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Mot de passe"
+        android:inputType="textPassword"
+        android:hint="Mot de passe"
         tools:layout_editor_absoluteX="29dp"
         tools:layout_editor_absoluteY="155dp" />
 
